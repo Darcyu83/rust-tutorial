@@ -1,0 +1,9 @@
+# Rust build artifacts
+target/
+**/target/
+
+# Root compiled binary
+/main
+
+# OS generated files
+.DS_Store
